@@ -1,4 +1,4 @@
-# Face Recognition implementation through eigenfaces and SVMs
+# Face Recognition implementation through eigenfaces and SVMs in Python
 
 Python implementation of the eigenfaces technique for representing real facial images using an assortment of base images (computed by performing an eigenanalysis of the face data matrix).
 
@@ -24,6 +24,9 @@ This project uses the following software and Python libraries:
 
 
 # Sample Outputs
+
+Click to enlarge
+
 
 <tr>
     <td><a href="https://raw.githubusercontent.com/adityasiwan/face-recognition/master/source/img/testoutput.png">
