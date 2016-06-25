@@ -32,7 +32,7 @@ print("n_features: %d" % n_features)
 print("n_classes: %d" % n_classes)
 
 X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.55, random_state=22)
+    X, y, test_size=0.55, random_state=12)
 
 n_components = 100
 
