@@ -27,17 +27,8 @@ This project uses the following software and Python libraries:
 
 Click to enlarge
 
+[<img src="https://github.com/adityasiwan/face-recognition/raw/master/source/img/testoutput.png">](https://raw.githubusercontent.com/adityasiwan/face-recognition/master/source/img/testoutput.png)
 
-<tr>
-    <td><a href="https://raw.githubusercontent.com/adityasiwan/face-recognition/master/source/img/testoutput.png">
-<img src="https://github.com/adityasiwan/face-recognition/raw/master/source/img/testoutput.png" width="300" height="200">
-</a></td>
-    
-    <td><a href="https://raw.githubusercontent.com/adityasiwan/face-recognition/master/source/img/testoutput1.png">
-<img src="https://github.com/adityasiwan/face-recognition/raw/master/source/img/testoutput1.png" width="300" height="200">
-</a></td>
+[<img src="https://github.com/adityasiwan/face-recognition/raw/master/source/img/testoutput1.png">](https://raw.githubusercontent.com/adityasiwan/face-recognition/master/source/img/testoutput1.png)
 
-    <td><a href="https://raw.githubusercontent.com/adityasiwan/face-recognition/master/source/img/testoutput2.png">
-<img src="https://github.com/adityasiwan/face-recognition/raw/master/source/img/testoutput2.png" width="300" height="200">
-</a></td>
-</tr>
+[<img src="https://github.com/adityasiwan/face-recognition/raw/master/source/img/testoutput2.png">](https://raw.githubusercontent.com/adityasiwan/face-recognition/master/source/img/testoutput2.png)
